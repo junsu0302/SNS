@@ -13,7 +13,7 @@
 ## 프로젝트 구조
 ```
 src
-├─ atom : 다국어 처
+├─ atom : 다국어 처리
 ├─ components : 공통 컴포넌트
 │  ├─ comments : 이미지 슬라이드 관리
 │  │  ├─ Comment.module.scss : 댓글 스타일링 관리
